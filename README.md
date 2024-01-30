@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there I am Tanmay<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/tanmay-moharana/">
   <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
