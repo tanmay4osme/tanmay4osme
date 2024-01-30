@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/tanmay-moharana">
   <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm [Tanmay Moharana](https://tanmay-moharana.github.io/), a passionate self-taught Full Stack web developer and a product manager. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
