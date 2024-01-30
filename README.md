@@ -1,10 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/TanmayMoharana">
-  <img align="left" alt="Tanmay Moharana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tanmay-moharana">
-  <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tanmay-moharana/">
+  <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw2_UIzr2n9AobB8A5myXTyd&ust=1706733457966000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICu9937hYQDFQAAAAAdAAAAABAE" />
 </a>
 <br />
 
